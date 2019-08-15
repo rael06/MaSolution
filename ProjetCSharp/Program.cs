@@ -7,6 +7,8 @@ namespace ProjetCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // instruction de lecture pour retenir la fenêtre console
+            Console.Read();
         }
     }
 }
